@@ -5,3 +5,7 @@
 # Things you might need
 - Nodemon
   - npm install nodemon -g
+- Install the packages
+  - npm install
+- Start Server
+  - nodemon index
